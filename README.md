@@ -1,97 +1,83 @@
-# 👋 Hi, I'm Murali Krishna Chowdary Valluri
-
-### 🚀 Computer Science Engineer | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
+# 🤖 SYSTEM ONLINE | MURALI KRISHNA CHOWDARY VALLURI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+MURALI+KRISHNA+CHOwdARY+VALLURI...;WELCOME+TO+MY+DIGITAL+LAB+%F0%9F%A4%96;CSE+%7C+ARTIFICIAL+INTELLIGENCE+%26+MACHINE+LEARNING;PYTHON+%7C+JAVA+%7C+JAVASCRIPT+%7C+AI+%26+ML;BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx0Z2R0azJpazF3YjB5eDJrNnE4ajR4ajg5cWVtbnZ4aWZ2a2R0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPwoeGErMmaI43S/giphy.gif" width="180" alt="Robot coding" />
+</p>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  🤖 MURALI.AI — SYSTEM STATUS           ║
+╠══════════════════════════════════════════════════════════╣
+║ NAME          : MURALI KRISHNA CHOWDARY VALLURI         ║
+║ STATUS        : ONLINE 🟢                                ║
+║ ROLE          : CSE ENGINEER                             ║
+║ SPECIALIZATION: ARTIFICIAL INTELLIGENCE & MACHINE LEARNING║
+║ MODE          : LEARN • BUILD • INNOVATE                 ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+## 🤖 ABOUT_ME.exe
+
+> 👋 **Hello! I am Murali Krishna Chowdary Valluri**, a Computer Science Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
+
+```text
+> SYSTEM INITIALIZED...
+
+🧠 AI & MACHINE LEARNING ENTHUSIAST
+💻 SOFTWARE DEVELOPMENT EXPLORER
+🚀 MISSION: BUILDING INTELLIGENT SOLUTIONS
+⚡ STATUS: LEARNING • BUILDING • INNOVATING
+🤖 MODE: FUTURE_READY
+```
+
 ---
 
-## 🙋‍♂️ About Me
+## ⚡ TECH_STACK.exe
 
-* 🎓 Computer Science Engineering Graduate specializing in **Artificial Intelligence & Machine Learning**
-* 💻 Interested in **Software Development, Full-Stack Web Development, AI and Machine Learning**
-* 🌱 Currently improving my skills in **React, Node.js, MongoDB and Machine Learning**
-* 🧠 Passionate about solving real-world problems through technology
-* 🚀 Always learning and building new projects
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
+### 💻 Core Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-### 🌐 Web Development
+### 🧠 AI / MACHINE LEARNING
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Also familiar with:**
-NumPy • Pandas • Matplotlib • Scikit-learn • Keras • PCA • Classification • Data Analysis
+**AI/ML Arsenal:**
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `Keras`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 PROJECT_DATABASE
 
-### 🏥 Hospital Management System
+### 🤖 🚗 CAR DATA PREDICTION
 
-A web-based application designed to manage hospital-related records and operations.
+> Machine Learning project focused on analyzing car data and generating predictions.
 
-**Tech:** PHP • MySQL • HTML • CSS • Bootstrap
+**SYSTEM:** `Python` • `Machine Learning` • `Data Analysis`
 
-🔗 [View Repository](https://github.com/Muralivalluri555/Hospital-management)
+### 💍 WEDDING INVITATION WEBSITE
 
----
+> A modern and interactive digital wedding invitation website.
 
-### 📝 Employee Leave Management System
+**SYSTEM:** `HTML` • `CSS` • `JavaScript`
 
-A web application for managing employee leave applications, approvals and leave records.
+### 🏥 HOSPITAL MANAGEMENT SYSTEM
 
-**Tech:** PHP • MySQL • HTML • CSS • Bootstrap
+> A database-driven application for managing hospital operations and records.
 
-🔗 [View Repository](https://github.com/Muralivalluri555/elms)
-
----
-
-### 🚗 Car Data Prediction
-
-A machine learning project focused on analyzing data and predicting car-related values.
-
-**Tech:** Python • Jupyter Notebook • Machine Learning
-
-🔗 [View Repository](https://github.com/Muralivalluri555/Capstone-project-Cars-data-prediction)
+**SYSTEM:** `MySQL` • `Database Management` • `Web Technologies`
 
 ---
 
-### 💍 Wedding Invitation Website
-
-An interactive and responsive wedding invitation website.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/Muralivalluri555/Wedding-invitaion)
-
----
-
-## 📊 GitHub Statistics
+## 📡 GITHUB_SYSTEM_ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muralivalluri555&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -104,28 +90,28 @@ An interactive and responsive wedding invitation website.
 
 ---
 
-## 📫 Connect With Me
+## 🛰️ CONNECT_TO_SYSTEM
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
+<p align="center">
   <a href="https://github.com/Muralivalluri555">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Muralivalluri555-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💡 Quote
-
-> **"The best way to predict the future is to create it."**
-
 <p align="center">
-  ⭐ <b>Feel free to explore my repositories and connect with me!</b> ⭐
+
+### 🤖 SYSTEM MESSAGE
+
+> **"Code today. Build tomorrow. Create the future."**
+
+<img src="https://komarev.com/ghpvc/?username=Muralivalluri555&label=SYSTEM+VISITORS&color=00E5FF&style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muralivalluri555&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p>
+```text
+████████████████████████████████████████ 100%
+
+        SYSTEM RUNNING SUCCESSFULLY 🤖
+```
