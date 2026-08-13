@@ -23,7 +23,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,php" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 </p>
 
 ### 🌐 Web Development
